@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Khushi Kushwaha</h1>
 
-<!--
-**kushwahaKhushi/kushwahaKhushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🎓 B.Tech Computer Science & Engineering Student
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 B.Tech CSE Student
+- 💡 Passionate about Technology and Software Development
+- 🌱 Currently exploring Programming, Data Structures & Git/GitHub
+- 🚀 Building academic and personal projects
+- 📚 Always eager to learn new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+- C
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- MATLAB
+
+---
+
+## 📂 Featured Projects
+
+- 💻 Programming Practice
+- 🌐 Frontend Development Projects
+- 📊 MATLAB Projects
+- 📚 Academic Projects
+
+---
+
+## 🎯 Goals
+
+- Improve Problem Solving Skills
+- Build Real-World Projects
+- Learn Full Stack Development
+- Contribute to Open Source
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **kushwahakhushi0512@gmail.com**
+
+💼 LinkedIn: https://www.linkedin.com/in/khushi-kushwaha
