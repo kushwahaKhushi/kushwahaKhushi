@@ -51,12 +51,20 @@
 
 <h3 align="center">Featured Projects</h3>
 
-- 🎓 Student Management System
-- 💻 College Mini Projects
-- 📊 MATLAB Projects
-- 🚀 Programming Practice Repository
+- 🌐 VibeNet – Social Media Platform
+- 🛒 ShopShiper – E-Commerce Platform
+- 📊 Data Visualization Projects
+- 💻 Programming & DSA Projects
 
----
+---  
+
+<h3 align="center">📄 Resume</h3>
+
+<p align="center">
+  <a href="./Khushi_Kushwaha%20Resume.pdf">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 
 <h3 align="center">Goals</h3>
 
@@ -67,6 +75,8 @@
 - 💼 Prepare for Software Development Internships
 
 ---
+
+
 
 <h3 align="center">GitHub Stats</h3>
 
